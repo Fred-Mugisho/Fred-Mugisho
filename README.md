@@ -28,8 +28,7 @@ I love designing systems that solve real-world problems with clarity, performanc
 
 ## 📈 Statistiques GitHub | GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=radical&hide_title=true)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Mugisho&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=radical&hide_title=true)  | ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Mugisho&layout=compact&theme=radical)
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
