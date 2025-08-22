@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Frederick Mugisho
+# 👋 Bonjour, je suis Frederick MUGISHO
 
 Développeur fullstack passionné, je conçois des applications web et mobiles utiles, évolutives et sécurisées.  
 J’aime créer des systèmes qui résolvent des problèmes concrets avec performance, clarté et élégance.
