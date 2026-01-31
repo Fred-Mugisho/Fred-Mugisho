@@ -33,35 +33,16 @@ Blockchain          Solidity | Ethereum | Web3.py
 
 ## Projets notables
 
-### En production
-
-**Sofia** — Gestion universitaire complete (LMD)
-`Django` `PostgreSQL`
-
-**Systeme integre CBCA** — ERP multi-modules : administration, intendance, finance
-`Django` `PostgreSQL`
-
-**Backend Tools** — Outils reutilisables : auth, 2FA, integration hardware, audit CLI
-`Django` `PostgreSQL`
-
-**Radio en ligne** — Plateforme de streaming audio avec serveur Icecast
-`Icecast` `Django` `PostgreSQL`
-
-**Portfolio** — Site personnel de presentation
-`Django` `PostgreSQL`
-
-### En cours / Test
-
-**DMS-CCCM** — Suivi de populations deplacees (UNHCR)
-`Django` `Nuxt` `Leaflet` `PostgreSQL`
-
-**Alert Zone** — App mobile d'alerte pour zones a risque : signalement de danger, tracking GPS et dispatch d'interventions
-`Flutter` `Django` `PostgreSQL` `Leaflet`
-
-### Prototype
-
-**Chagua APP** — Vote en ligne sur blockchain
-`Solidity` `Web3.py` `Django`
+| Projet | Description | Stack | Statut |
+|:-------|:-----------|:------|:------:|
+| **Sofia** | Gestion universitaire complète (LMD) | `Django` `PostgreSQL` | Production |
+| **Système intégré CBCA** | ERP multi-modules : admin, intendance, finance | `Django` `PostgreSQL` | Production |
+| **Backend Tools** | Outils réutilisables : auth, 2FA, intégration hardware, audit CLI | `Django` `PostgreSQL` | Production |
+| **Radio en ligne** | Plateforme de streaming audio avec serveur Icecast | `Icecast` `Django` `PostgreSQL` | Production |
+| **Portfolio** | Site personnel de présentation | `Django` `PostgreSQL` | Production |
+| **DMS-CCCM** | Suivi de populations déplacées (UNHCR) | `Django` `Nuxt` `Leaflet` `PostgreSQL` | Test |
+| **Alert Zone** | App mobile d'alerte zones à risque : signalement, tracking GPS, dispatch d'interventions | `Flutter` `Django` `PostgreSQL` `Leaflet` | En cours |
+| **Chagua APP** | Vote en ligne sur blockchain | `Solidity` `Web3.py` `Django` | Prototype |
 
 ---
 
