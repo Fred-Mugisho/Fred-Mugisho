@@ -1,45 +1,55 @@
-# 👋 Bonjour, je suis Frederick MUGISHO
+# Frederick MUGISHO
 
-Développeur fullstack passionné, je conçois des applications web et mobiles utiles, évolutives et sécurisées.  
-J’aime créer des systèmes qui résolvent des problèmes concrets avec performance, clarté et élégance.
+**Ingénieur Infrastructure IT & Systèmes | Backend Python**
+
+Ingénieur logiciel avec une forte orientation infrastructure et systèmes distribués. Expérience dans la conception d’API, l’automatisation, le monitoring et l’exploitation de systèmes en production. À l’aise avec les environnements Linux, Docker et les contraintes de haute disponibilité, de performance et de consommation des ressources. Intéressé par les environnements industriels tels que le minage Bitcoin, où l’énergie, la fiabilité et l’optimisation sont critiques.
+---
+
+## Stack technique
+
+**Systèmes & Infra** : Linux | Nginx | Docker | AWS | CI/CD (GitHub Actions)
+**Backend** : Python | Django | DRF | FastAPI
+**Bases de données** : PostgreSQL | MySQL | Redis
+**Automatisation** : Python scripting | Bash | Monitoring
+**Blockchain** : Solidity | Ethereum | Web3.py
 
 ---
 
-## 🧰 Stack technique
+## Projets notables
 
-**Backend** : Python 🐍 | Django | Django REST Framework | PostgreSQL 🛢️  
-**Frontend** : JavaScript ⚡ | Vue.js | Nuxt 3 | Tailwind CSS 🎨  
-**Outils / Tools** : Git | Docker 🐳 | Linux 🐧 | GitHub Actions  
-**Mobile** : Flutter 📱 *(projets internes & prototypes)*
-
----
-
-## 🧠 Centres d’intérêt
-
-💸 Plateformes de paiement (FinTech)  
-🗺️ Cartographie & data viz
-⚙️ Architecture propre et modulaire
-🧠 IA & Blockchain (certifié – Microsoft Learn Student Ambassadors)
+| Projet | Description | Stack | Statut |
+|---|---|---|---|
+| **Sofia** | Gestion universitaire complète (LMD) | Django, PostgreSQL | En production |
+| **Système intégré CBCA** | ERP multi-modules (admin, intendance, finance) | Django, PostgreSQL | En production |
+| **DMS-CCCM** | Suivi de populations déplacées (UNHCR) | Django, Nuxt, Leaflet, PostgreSQL | En développement |
+| **Backend Tools** | Outils réutilisables : auth, 2FA, intégration hardware, audit CLI | Django, PostgreSQL | En production |
+| **Chagua APP** | Vote en ligne sur blockchain | Solidity, Web3.py, Django | Prototype |
+| **Portfolio** | Site personnel de présentation | Django, PostgreSQL | En production |
+| **
 
 ---
 
-## 📈 Statistiques GitHub
+## Centres d'intérêt
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=radical&hide_title=false)  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Mugisho&layout=compact&theme=radical&hide_title=false)
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
----
-
-## 📫 Me contacter
-
-- 💼 [LinkedIn – Frederick Mugisho](https://www.linkedin.com/in/frederick-mugisho)  
-- 🌐 [Portfolio – Devpost](https://devpost.com/frederickmugisho228)  
-- ✉️ frederickmugisho228@gmail.com  
-- 📞 +243 972 902 713 / +243 972 539 807
+- Infrastructure haute disponibilité & systèmes 24/7
+- Automatisation et monitoring d'environnements de production
+- Blockchain & systèmes distribués
+- Optimisation de performance et gestion de ressources
 
 ---
 
-> « Je code pour résoudre, pas pour impressionner. »  
->  
-> 🌍 Toujours ouvert aux projets utiles et aux opportunités en remote.  
+## Statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=default&hide_title=false)  ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Mugisho&layout=compact&theme=default&hide_title=false)
+
+---
+
+## Contact
+
+- [LinkedIn – Frederick Mugisho](https://www.linkedin.com/in/frederick-mugisho)
+- frederickmugisho228@gmail.com
+- +243 972 902 713
+
+---
+
+> Toujours ouvert aux opportunités en infrastructure, backend et systèmes distribués.  
