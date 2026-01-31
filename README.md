@@ -58,8 +58,10 @@ Blockchain          Solidity | Ethereum | Web3.py
 ## Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fred-Mugisho&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-Mugisho&layout=compact&theme=default&hide_title=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fred-Mugisho&theme=default" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fred-Mugisho&label=Vues%20du%20profil&color=333333&style=flat" alt="Profile views" />
 </p>
 
 ---
